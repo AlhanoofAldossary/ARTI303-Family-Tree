@@ -1,0 +1,23 @@
+?- father(nemer, nourah).
+true.
+
+?- father(nemer, nawaf).
+true.
+
+?- mother(habebah, nourah).
+true.
+
+?- mother(habebah, hasan).
+true.
+
+?- sister(nourah, nawaf).
+true.
+
+?- sister(reem, hasan).
+true.
+
+?- brother(nawaf, nourah).
+true.
+
+?- brother(hasan, reem).
+true.
